@@ -80,6 +80,7 @@
 05. Cybersecurity
 06. Linux
 07. Wireshark
+08. Nmap
 </pre>
 
 ---
