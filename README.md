@@ -1,72 +1,116 @@
+```md
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=440&lines=Ol%C3%A1%2C+sou+o+Murilo!;Bem-vindo(a)!" alt="Typing SVG" />
-
-<br>
-
-**Estudante de Análise e Desenvolvimento de Sistemas — 2º semestre**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,50:5A189A,100:000000&height=210&section=header&text=MURILO%20SILVA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CODE%20%E2%80%A2%20NETWORKS%20%E2%80%A2%20SECURITY&descAlignY=56&descSize=17)
 
 </div>
 
-<br>
+<h2 align="center">🧛‍♂️ WELCOME TO MY GITHUB</h2>
 
-Olá! Sou estudante de ADS e uma pessoa curiosa, apaixonada por tecnologia e pelas possibilidades que a área de **Dados** oferece. A cada dia que passa, busco estudar e aprimorar meus conhecimentos, com foco especial em Análise de Dados, além de uma base sólida em Redes e Segurança da Informação. Meu objetivo atual é conseguir minha primeira oportunidade de estágio na área de **Dados**.
+<p align="center">
+  <i>code. learn. evolve. repeat.</i>
+</p>
+
+<p align="center">
+Estudante de <b>Análise e Desenvolvimento de Sistemas</b><br>
+explorando tecnologia, redes e segurança da informação.
+</p>
 
 ---
 
-### 📫 Vamos nos conectar?
+## 🦇 ABOUT ME
+
+```txt
+> name: Murilo Silva
+> area: Technology
+> focus: Networks & Cybersecurity
+> status: always learning...
+```
+
+🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+
+💻 Estudando **Python, SQL, Redes e TCP/IP**
+
+🔐 Interesse em **Segurança da Informação e Cibersegurança**
+
+🐧 Explorando ambientes **Linux e Kali Linux**
+
+📊 Conhecimentos em **Excel, Power BI e análise de dados**
+
+🕸️ Buscando evoluir cada vez mais dentro da área de tecnologia
+
+---
+
+## 🩸 TECH STACK
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/murilosilvaa">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:mumu110208@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://github.com/mur1lxz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+![Python](https://img.shields.io/badge/Python-5A189A?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7209B7?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3C096C?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7B2CBF?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-240046?style=for-the-badge&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-5A189A?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-7B2CBF?style=for-the-badge&logo=wireshark&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-3C096C?style=for-the-badge&logo=cisco&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Excel-7209B7?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-5A189A?style=for-the-badge&logo=powerbi&logoColor=white)
 
 </div>
 
 ---
 
-### ⚙️ Stacks
+## 🕷️ CURRENTLY LEARNING
+
+```text
+01. Python
+02. SQL & Databases
+03. Computer Networks
+04. TCP/IP
+05. Cybersecurity
+06. Linux
+```
+
+---
+
+## 🧛 GITHUB STATS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+![Murilo GitHub Stats](https://github-readme-stats.vercel.app/api?username=mur1lxz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mur1lxz&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000)
 
 </div>
 
 ---
 
-### 📚 Em estudo
+## ✦ CONNECT WITH ME
 
-`Análise de Dados` · `Modelagem de Dados (MER/DER)` · `Fluxogramas e Diagramas de Processos` · `Redes de Computadores` · `Protocolos TCP/IP` · `Segurança da Informação` · `Cibersegurança` · `Infraestrutura de TI`
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilosilvaa)
+
+[![GitHub](https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mur1lxz)
+
+</div>
 
 ---
 
-### 📊 Estatísticas
-
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+### 🦇 CODE • NETWORKS • SECURITY
+
+<sub>「 evolving one commit at a time 」</sub>
+
+<br><br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5A189A,100:0D001A&height=120&section=footer)
 
 </div>
+```
 
-<br>
-
-<div align="center">
-
-Sempre aprendendo, construindo e evoluindo.
-
-</div>
+Deixei mais na estética **vamp/dark**, com preto, roxo, morcegos, tipografia em inglês e aquele visual mais misterioso associado ao Carti, mas ainda aceitável para recrutadores.
