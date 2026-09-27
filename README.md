@@ -29,7 +29,7 @@
 
 🗄️ Aprendendo **SQL e Banco de Dados**
 
-🌐 Estudando **Redes de Computadores e TCP/IP**
+🌐 Estudando Redes de Computadores, TCP/IP, HTTP e DNS
 
 🔐 Interesse em **Segurança da Informação e Cibersegurança**
 
