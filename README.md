@@ -108,9 +108,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mur1lxz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=9D4EDD&icon_color=7B2CBF&text_color=FFFFFF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mur1lxz&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mur1lxz&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=9D4EDD&text_color=FFFFFF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mur1lxz&theme=tokyonight"/>
 
 </div>
 
