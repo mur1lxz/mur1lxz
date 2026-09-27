@@ -1,4 +1,4 @@
-md
+
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,50:5A189A,100:000000&height=210&section=header&text=MURILO%20SILVA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CODE%20%E2%80%A2%20NETWORKS%20%E2%80%A2%20SECURITY&descAlignY=56&descSize=17)
@@ -20,7 +20,7 @@ explorando tecnologia, redes e segurança da informação.
 
 ## 🦇 ABOUT ME
 
-txt
+´´´txt
 > name: Murilo Silva
 > area: Technology
 > focus: Networks & Cybersecurity
